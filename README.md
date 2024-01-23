@@ -1,4 +1,4 @@
-# Bus Stop Project
+
 
 Welcome to the Bus Stop Project! This web application is designed to simplify the process of tracking bus routes, schedules, and real-time arrivals. Whether you're a daily commuter or a traveler exploring a new city, our platform aims to enhance your experience with convenient and reliable bus information.
 
