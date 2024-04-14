@@ -88,17 +88,3 @@
         left: 100%;
         transition: all 1s;
     }
-
-    #check {
-        display: none;
-    }
-
-    .checkBtn {
-        display: block;
-    }
-
-    #check:checked~ul {
-        left: 0%;
-    }
-
-}
